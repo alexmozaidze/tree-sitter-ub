@@ -1,0 +1,10 @@
+[package]
+name = "tree-sitter-ub"
+version = "0.1.0"
+authors = ["Alex Mozaidze <lexerpexer@proton.me>"]
+edition = "2021"
+
+[dependencies]
+itertools = "0.12.1"
+tree-sitter = "0.20.10"
+tree-sitter-rust = "0.20.4"
